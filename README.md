@@ -35,3 +35,10 @@ Hello, I'm a Kotlin android developer from Russia.
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="Sqlite">
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murzify&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murzify&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
