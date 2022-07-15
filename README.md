@@ -39,5 +39,7 @@ Hello, I'm a Kotlin android developer from Russia.
 
 ### <p align="center">:fire: My Stats :fire:</p>
 
-<img src="https://raw.githubusercontent.com/Murzify/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left">
-<img src="https://raw.githubusercontent.com/Murzify/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Murzify/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/Murzify/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</div>
