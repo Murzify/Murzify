@@ -37,8 +37,7 @@ Hello, I'm a Kotlin android developer from Russia.
 
 ---
 
-### :fire: My Stats :
+### <p align="center">:fire: My Stats :fire:</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murzify&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murzify&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/Murzify/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left">
+<img src="https://raw.githubusercontent.com/Murzify/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right">
